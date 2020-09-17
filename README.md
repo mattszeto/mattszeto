@@ -1,8 +1,16 @@
-<h2> Hi, I'm Matt! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Matt! <a href="https://github.com/mattszeto">
+         <img alt="gif" src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif"
+         width="25">
+      </a></h2>
 
-I'm a Senior CS student learning and making cool projects.
+<em>
+Computer Science Student at <a href="https://www.csulb.edu/">CSULB</a> 
+<br />
+Seeking Opportunities as a Software Engineer 
+<em />
 
-<h2>Connect with me: [<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/matthewszeto)</h2>
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-matthewszeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewszeto/)](https://www.linkedin.com/in/matthewszeto/)
+[![GitHub mattszeto](https://img.shields.io/github/followers/mattszeto?label=follow&style=social)](https://github.com/mattszeto)
 
 - 🔭 I’m currently working on [upvote](https://github.com/mattszeto/upvote) | [portfolio](https://matthewszeto.com/)
 - 🌱 I’m currently learning algorithmic trading!
@@ -21,8 +29,6 @@ I'm a Senior CS student learning and making cool projects.
 
 <br />
 
-### Check out some of my projects below
-
-[<img align="left" alt="SQL" width="26px" src="https://static.thenounproject.com/png/89829-200.png" />](https://github.com/mattszeto)
-[<img align="left" alt="SQL" width="26px" src="https://static.thenounproject.com/png/89829-200.png" />](https://github.com/mattszeto)
-[<img align="left" alt="SQL" width="26px" src="https://static.thenounproject.com/png/89829-200.png" />](https://github.com/mattszeto)
+<em> <b> Check out some of my projects below <b /> <em />
+[<img alt="SQL" width="20px" src="https://static.thenounproject.com/png/89829-200.png" />](https://github.com/mattszeto)
+[<img align="left" alt="SQL" width="20px" src="https://static.thenounproject.com/png/89829-200.png" />](https://github.com/mattszeto)
