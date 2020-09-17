@@ -14,8 +14,8 @@
 <li><samp>🌱 I’m currently learning algorithmic trading!</samp></li>
 </ul></p>
 <p><samp>
-🥅 2020 Goals: contribute to open-source projects, land a full-time SWE job, and make more art!<br />
-🧙🏽‍♂️ Fun Fact: I love to design things, play video games, and trade stocks.<br />
+🥅 <b>2020 Goals:</b> contribute to open-source projects, land a full-time SWE job, and make more art!<br />
+🧙🏽‍♂️ <b>Fun Fact:</b> I love to design things, play video games, and trade stocks.<br />
 
 </samp></p>
 
