@@ -33,6 +33,4 @@
 <br />
 <br />
 
-<em> <b> <samp>Check out some of my projects below </samp></b> </em>
-[<img alt="SQL" width="20px" src="https://static.thenounproject.com/png/89829-200.png" />](https://github.com/mattszeto)
-[<img align="left" alt="SQL" width="20px" src="https://static.thenounproject.com/png/89829-200.png" />](https://github.com/mattszeto)
+<em><b><samp>⬇️Check out my projects below⬇️</samp></b> </em>
