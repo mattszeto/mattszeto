@@ -4,9 +4,9 @@ I'm a Senior CS student making cool projects.
 
 ### Connect with me:
 
-[<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/matthewszeto/]
+[<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/matthewszeto)
 
-- 🔭 I’m currently working on [upvote][https://github.com/mattszeto/upvote]
+- 🔭 I’m currently working on [upvote](https://github.com/mattszeto/upvote)
 - 🌱 I’m currently learning algorithmic trading!
 
 ### Languages and Tools
