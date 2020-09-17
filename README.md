@@ -1,10 +1,8 @@
-### Hi there, I'm Matt! 👨🏽‍💻
+<h2> Hi, I'm Matt! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50"></h2>
 
 I'm a Senior CS student learning and making cool projects.
 
-### Connect with me:
-
-[<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/matthewszeto)
+<h2>Connect with me: [<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/matthewszeto)</h2>
 
 - 🔭 I’m currently working on [upvote](https://github.com/mattszeto/upvote) | [portfolio](https://matthewszeto.com/)
 - 🌱 I’m currently learning algorithmic trading!
