@@ -1,6 +1,6 @@
 <h3><samp>Hi there, I'm Matt! <a href="https://github.com/mattszeto">
-         <img alt="gif" src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif"
-         width="29">
+         <img align="right" alt="gif" src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif"
+         width="170">
       </a></samp></h3>
 
 <p ><em><samp>Computer Science Student at <a href="https://www.csulb.edu/">CSULB</a> 
@@ -9,10 +9,10 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-matthewszeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewszeto/)](https://www.linkedin.com/in/matthewszeto/)
 [![GitHub mattszeto](https://img.shields.io/github/followers/mattszeto?label=follow&style=social)](https://github.com/mattszeto)
 
-<p><samp>
-- 🔭 I’m currently working on <a href="https://github.com/mattszeto/upvote">upvote</a> | <a href="https://matthewszeto.com/">portfolio</a><br />
-- 🌱 I’m currently learning algorithmic trading!
-</samp></p>
+<p><ul>
+<li><samp>🔭 I’m currently working on <a href="https://github.com/mattszeto/upvote">upvote</a> | <a href="https://matthewszeto.com/">portfolio</a></samp></li> 
+<li><samp>🌱 I’m currently learning algorithmic trading!</samp></li>
+</ul></p>
 <p><samp>
 🥅 2020 Goals: contribute to open-source projects, land a full-time SWE job, and make more art!<br />
 🧙🏽‍♂️ Fun Fact: I love to design things, play video games, and trade stocks.<br />
