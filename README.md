@@ -1,4 +1,4 @@
-### Hi there, I'm Matt! 👋
+### Hi there, I'm Matt! 👨🏽‍💻
 
 I'm a Senior CS student learning and making cool projects.
 
@@ -6,9 +6,10 @@ I'm a Senior CS student learning and making cool projects.
 
 [<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/matthewszeto)
 
-- 🔭 I’m currently working on [upvote](https://github.com/mattszeto/upvote)
+- 🔭 I’m currently working on [upvote](https://github.com/mattszeto/upvote) | [portfolio](https://matthewszeto.com/)
 - 🌱 I’m currently learning algorithmic trading!
 - 🥅 2020 Goals: contribute to open-source projects and land a full-time SWE job!
+- 🧙🏽‍♂️ Fun Fact: I love to design things, play video games, and trade stocks.
 
 ### Languages and Tools
 
@@ -22,7 +23,7 @@ I'm a Senior CS student learning and making cool projects.
 
 <br />
 
-### Check out some of past projects below
+### Check out some of my projects below
 
 [<img align="left" alt="SQL" width="26px" src="https://static.thenounproject.com/png/89829-200.png" />](https://github.com/mattszeto)
 [<img align="left" alt="SQL" width="26px" src="https://static.thenounproject.com/png/89829-200.png" />](https://github.com/mattszeto)
