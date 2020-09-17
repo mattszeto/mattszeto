@@ -1,4 +1,4 @@
-<h3><samp>Hi there, I'm Matt! <a href="https://github.com/mattszeto">
+<h3><samp>Hi there, I'm Matt! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="28"><a href="https://github.com/mattszeto">
          <img align="right" alt="gif" src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif"
          width="170">
       </a></samp></h3>
