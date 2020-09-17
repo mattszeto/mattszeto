@@ -6,6 +6,8 @@
 <p ><em><samp>Computer Science Student at <a href="https://www.csulb.edu/">CSULB</a> 
 <br />Seeking Opportunities as a Software Engineer </em></samp></p>
 
+<sub><b>I love connecting with different people so feel free to hit me up!</b></sub>
+
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-matthewszeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewszeto/)](https://www.linkedin.com/in/matthewszeto/)
 [![GitHub mattszeto](https://img.shields.io/github/followers/mattszeto?label=follow&style=social)](https://github.com/mattszeto)
 
@@ -15,7 +17,7 @@
 </ul></p>
 <p><samp>
 🥅 <b>2020 Goals:</b> contribute to open-source projects, land a full-time SWE job, and make more art!<br />
-🧙🏽‍♂️ <b>Fun Fact:</b> I love to design things, play video games, and trade stocks.<br />
+🧙🏽‍♂️ <b>Fun Fact:</b> I have a weird obsession with Mechanical Keyboards.<br />
 
 </samp></p>
 
@@ -33,4 +35,6 @@
 <br />
 <br />
 
-<h4><em><b><samp>⬇️  Check out my projects below  ⬇️</samp></b> </em></h4>
+<h5 align="center">Aside from coding, I love to design things, play video games, and trade stocks!
+
+<h4 align="center"><em><b><samp>⬇️  Check out my projects below  ⬇️</samp></b> </em></h4>
