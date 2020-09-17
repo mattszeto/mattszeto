@@ -6,9 +6,9 @@
 <p ><em><samp>Computer Science Student at <a href="https://www.csulb.edu/">CSULB</a> 
 <br />Seeking Opportunities as a Software Engineer </em></samp></p>
 
-![](https://komarev.com/ghpvc/?username=mattszeto&color=blue&style=flat-square)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-matthewszeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewszeto/)](https://www.linkedin.com/in/matthewszeto/)
 [![GitHub mattszeto](https://img.shields.io/github/followers/mattszeto?label=follow&style=social)](https://github.com/mattszeto)
+![](https://komarev.com/ghpvc/?username=mattszeto&color=70adb5&style=flat-square)
 <br /><sub><b><samp>I love connecting with different people so feel free to hit me up!</samp></b></sub>
 
 <p><ul>
