@@ -1,13 +1,10 @@
 <h2> Hi, I'm Matt! <a href="https://github.com/mattszeto">
          <img alt="gif" src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif"
-         width="25">
+         width="29">
       </a></h2>
 
-<em>
-Computer Science Student at <a href="https://www.csulb.edu/">CSULB</a> 
-<br />
-Seeking Opportunities as a Software Engineer 
-<em />
+<p><em>Computer Science Student at <a href="https://www.csulb.edu/">CSULB</a> 
+<br />Seeking Opportunities as a Software Engineer <em /><p />
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-matthewszeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewszeto/)](https://www.linkedin.com/in/matthewszeto/)
 [![GitHub mattszeto](https://img.shields.io/github/followers/mattszeto?label=follow&style=social)](https://github.com/mattszeto)
@@ -27,6 +24,7 @@ Seeking Opportunities as a Software Engineer
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/docs/)
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15)
 
+<br />
 <br />
 
 <em> <b> Check out some of my projects below <b /> <em />
