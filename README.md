@@ -8,7 +8,7 @@
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-matthewszeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewszeto/)](https://www.linkedin.com/in/matthewszeto/)
 [![GitHub mattszeto](https://img.shields.io/github/followers/mattszeto?label=follow&style=social)](https://github.com/mattszeto)
-<br /><sub><b>I love connecting with different people so feel free to hit me up!</b></sub>
+<br /><sub><b><samp>I love connecting with different people so feel free to hit me up!</samp></b></sub>
 
 <p><ul>
 <li><samp>🔭 I’m currently working on <a href="https://github.com/mattszeto/upvote">upvote</a> | <a href="https://matthewszeto.com/">portfolio</a></samp></li> 
