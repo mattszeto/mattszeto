@@ -20,6 +20,7 @@ I'm a Senior CS student learning and making cool projects.
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/docs/)
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15)
 
+</br>
 ### Check out some of past projects below
 
 [<img align="left" alt="SQL" width="26px" src="https://static.thenounproject.com/png/89829-200.png" />](https://github.com/mattszeto)
