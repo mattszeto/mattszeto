@@ -4,7 +4,7 @@
       </a></samp></h3>
 
 <p ><em><samp>Computer Science Student at <a href="https://www.csulb.edu/">CSULB</a> 
-<br />Seeking Opportunities as a Software Engineer </em></samp></p>
+<br />Seeking Opportunities as an Entry-Level Software Engineer </em></samp></p>
 
 [![Linkedin: matthewszeto](https://img.shields.io/badge/-matthewszeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewszeto/)](https://www.linkedin.com/in/matthewszeto/)
 [![ : blog](https://img.shields.io/badge/-blog-orange?style=flat-square&link=https://blog.mattszeto.vercel.app/)](https://blog.mattszeto.vercel.app/)
