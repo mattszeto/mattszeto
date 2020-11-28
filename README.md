@@ -1,10 +1,10 @@
-<h3><samp>Hi there, I'm Matt! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="28"><a href="https://github.com/mattszeto">
+<h3><samp>Hi, I'm Matt! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="28"><a href="https://github.com/mattszeto">
          <img align="right" alt="gif" src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif"
          width="170">
       </a></samp></h3>
 
-<p ><em><samp>Computer Science Student at <a href="https://www.csulb.edu/">CSULB</a> 
-<br />Seeking Opportunities as an Entry-Level Software Engineer </em></samp></p>
+<p ><em><samp>Computer Science Student at <a href="https://www.csulb.edu/">CSULB</a>
+<br/>Seeking Opportunities as an Entry-Level Software Engineer </em></samp></p>
 
 [![Linkedin: matthewszeto](https://img.shields.io/badge/-matthewszeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewszeto/)](https://www.linkedin.com/in/matthewszeto/)
 [![ : blog](https://img.shields.io/badge/-blog-orange?style=flat-square&link=https://blog.mattszeto.vercel.app/)](https://blog.mattszeto.vercel.app/)
