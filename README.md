@@ -13,8 +13,8 @@
 <br /><sub><b><samp>I love connecting with different people so feel free to hit me up!</samp></b></sub>
 
 <p><ul>
-<li><samp>🔭 I’m currently working on <a href="https://github.com/mattszeto/upvote">upvote</a> | <a href="https://matthewszeto.com/">portfolio</a> | <a>swift</a></samp> </li> 
-<li><samp>🌱 I’m currently learning algorithmic trading (in python), iOS development, and back-end technologies!</samp></li>
+<li><samp>🔭 I’m currently working on <a href="https://github.com/mattszeto/upvote">upvote</a> | <a href="https://github.com/mattszeto/pyRo">pyRo</a> (algorithmic trading)</samp> </li> 
+<li><samp>🌱 I’m currently learning <a href="https://github.com/mattszeto/100daysofSwiftUI">swift</a> & GCP!</samp></li>
 <li><samp>🎨 Aside from coding, I love to design things, play video games, and trade stocks!</samp></li></ul></p>
 <p><samp>
 🥅 <b>2020 Goals:</b> contribute to open-source projects, land a full-time SWE job, make more art, and develop a full-fledged algorithmic day trading bot!<br />
