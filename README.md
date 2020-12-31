@@ -17,7 +17,7 @@
 <li><samp>🌱 I’m currently learning <a href="https://github.com/mattszeto/100daysofSwiftUI">swift</a> & GCP!</samp></li>
 <li><samp>🎨 Aside from coding, I love to design things, play video games, and trade stocks!</samp></li></ul></p>
 <p><samp>
-🥅 <b>2020 Goals:</b> contribute to open-source projects, land a full-time SWE job, make more art, and develop a full-fledged algorithmic day trading bot!<br />
+🥅 <b>2021 Goals:</b> land a full-time SWE job, make more art, and develop a full-fledged (profitable) algorithmic day trading bot!<br />
 🧙🏽‍♂️ <b>Fun Fact:</b> I have a weird obsession with Mechanical Keyboards.</samp></p>
 
 <h3><samp>Languages and Tools</samp></h3>
