@@ -3,7 +3,7 @@
          width="170">
       </a></samp></h3>
 
-<p ><em><samp>CS @ <a href="https://www.csulb.edu/">CSULB</a>
+<p ><em><samp> CS Graduate
 <br/>Seeking Opportunities as an Entry-Level Software Engineer </em></samp></p>
 
 [![Linkedin: matthewszeto](https://img.shields.io/badge/-matthewszeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewszeto/)](https://www.linkedin.com/in/matthewszeto/)
