@@ -14,7 +14,7 @@
 
 <p><ul>
 <li><samp>🔭 I’m currently working on <a href="https://github.com/mattszeto/upvote">upvote</a> | <a href="https://github.com/mattszeto/pyRo">pyRo</a> (algorithmic trading)</samp> </li> 
-<li><samp>🌱 I’m currently learning <a href="https://github.com/mattszeto/100daysofSwiftUI">swift</a> & GCP!</samp></li>
+<li><samp>🌱 I’m currently learning <a href="https://github.com/mattszeto/100daysofSwiftUI">Go</a> & GCP!</samp></li>
 <li><samp>🎨 Aside from coding, I love to design things, play video games, and trade stocks!</samp></li></ul></p>
 <p><samp>
 🥅 <b>2021 Goals:</b> land a full-time SWE job, make more art, and develop a full-fledged (profitable) algorithmic day trading bot!<br />
