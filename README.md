@@ -15,7 +15,7 @@
 <p><ul>
 <li><samp>🔭 I’m currently working on <a href="https://github.com/mattszeto/portfolio">my portfolio</a> | pyRo(algorithmic trading)</samp> </li> 
 <li><samp>🌱 I’m currently learning Cloud Services (GCP)!</samp></li>
-<li><samp>🎨 Aside from coding, I love to design things, play video games, and trade stocks!</samp></li></ul></p>
+<li><samp>🎨 Aside from coding, I love design, playing video games, and trading stocks!</samp></li></ul></p>
 <p><samp>
 🥅 <b>2021 Goals:</b> land a full-time SWE job, make more art, and develop a full-fledged (profitable) algorithmic day trading bot!<br />
 🧙🏽‍♂️ <b>Fun Fact:</b> I have a weird obsession with Mechanical Keyboards.</samp></p>
