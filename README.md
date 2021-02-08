@@ -13,7 +13,7 @@
 <br /><sub><b><samp>I love connecting with talented/like-minded individuals so feel free to hit me up!</samp></b></sub>
 
 <p><ul>
-<li><samp>🔭 I’m currently working on <a href="https://github.com/mattszeto/portfolio">my portfolio</a> | pyRo(algorithmic trading)</samp> </li> 
+<li><samp>🔭 I’m currently working on pyRo(algorithmic trading)</samp> </li> 
 <li><samp>🌱 I’m currently learning Cloud Services (GCP)!</samp></li>
 <li><samp>🎨 Aside from coding, I love design, playing video games, and trading stocks!</samp></li></ul></p>
 <p><samp>
