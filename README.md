@@ -27,10 +27,10 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://devdocs.io/html/)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://devdocs.io/css/)
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org/docs/getting-started.html)
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/docs/)
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />](https://docs.oracle.com/en/java/)
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />](https://graphql.org/)
+[<img align="left" alt="Node.js" width="26px" src="https://github.com/mattszeto/images-collection/blob/master/readme/node.png?raw=true" />](https://nodejs.org/en/docs/)
+[<img align="left" alt="SQL" width="26px" src="https://github.com/mattszeto/images-collection/blob/master/readme/sql.png?raw=true" />]()
+[<img align="left" alt="Java" width="26px" src="https://github.com/mattszeto/images-collection/blob/master/readme/java.png?raw=true" />](https://docs.oracle.com/en/java/)
+[<img align="left" alt="GraphQL" width="26px" src="https://github.com/mattszeto/images-collection/blob/master/readme/graphql.png?raw=true" />](https://graphql.org/)
 [<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org/)
 
 <br />
