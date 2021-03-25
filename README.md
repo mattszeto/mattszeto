@@ -4,7 +4,7 @@
       </a></samp></h3>
 
 <p ><em><samp> CS Graduate
-<br/>Seeking Opportunities as an Entry-Level Software Engineer </em></samp></p>
+<br/>Software Engineer</em></samp></p>
 
 [![Linkedin: matthewszeto](https://img.shields.io/badge/-matthewszeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewszeto/)](https://www.linkedin.com/in/matthewszeto/)
 [![ : blog](https://img.shields.io/badge/-blog-orange?style=flat-square&link=https://blog.mattszeto.vercel.app/)](https://blog.mattszeto.vercel.app/)
@@ -17,7 +17,7 @@
 <li><samp>🌱 I’m currently learning Cloud Services (GCP)!</samp></li>
 <li><samp>🎨 Aside from coding, I love design, playing video games, and trading stocks!</samp></li></ul></p>
 <p><samp>
-🥅 <b>2021 Goals:</b> land a full-time SWE job, make more art, and develop a full-fledged (profitable) algorithmic day trading bot!<br />
+🥅 <b>2021 Goals:</b> land a full-time SWE job ✔️, make more art, and develop a full-fledged (profitable) algorithmic day trading bot!<br />
 🧙🏽‍♂️ <b>Fun Fact:</b> I have a weird (& expensive) obsession with Mechanical Keyboards.</samp></p>
 
 <h3><samp>Languages and Tools</samp></h3>
