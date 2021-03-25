@@ -14,7 +14,7 @@
 
 <p><ul>
 <li><samp>🔭 I’m currently working on pyRo(algorithmic trading)</samp> </li> 
-<li><samp>🌱 I’m currently learning Cloud Services (GCP)!</samp></li>
+<li><samp>🌱 I’m currently learning Golang</samp></li>
 <li><samp>🎨 Aside from coding, I love design, playing video games, and trading stocks!</samp></li></ul></p>
 <p><samp>
 🥅 <b>2021 Goals:</b> land a full-time SWE job ✔️, make more art, and develop a full-fledged (profitable) algorithmic day trading bot!<br />
