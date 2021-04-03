@@ -3,8 +3,7 @@
          width="170">
       </a></samp></h3>
 
-<p ><em><samp> CS Graduate
-<br/>Software Engineer</em></samp></p>
+<p ><em><samp>Software Engineer</em></samp></p>
 
 [![Linkedin: matthewszeto](https://img.shields.io/badge/-matthewszeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewszeto/)](https://www.linkedin.com/in/matthewszeto/)
 [![ : blog](https://img.shields.io/badge/-blog-orange?style=flat-square&link=https://blog.mattszeto.vercel.app/)](https://blog.mattszeto.vercel.app/)
