@@ -12,9 +12,9 @@
 <br /><sub><b><samp>I love connecting with talented/like-minded individuals so feel free to hit me up!</samp></b></sub>
 
 <p><ul>
-<li><samp>🔭 I’m currently working on pyRo(algorithmic trading)</samp> </li> 
+<li><samp>🔭 I’m currently working on ...</li> 
 <li><samp>🌱 I’m currently learning Golang</samp></li>
-<li><samp>🎨 Aside from coding, I love design, playing video games, and trading stocks!</samp></li></ul></p>
+<li><samp>🎨 Aside from coding, I love design, playing video games, and trading stocks/crypto!</samp></li></ul></p>
 <p><samp>
 🥅 <b>2021 Goals:</b> explore more hobbies, make more art, and develop a full-fledged (profitable) algorithmic day trading bot!<br />
 🧙🏽‍♂️ <b>Fun Fact:</b> I have a weird (& expensive) obsession with Mechanical Keyboards.</samp></p>
